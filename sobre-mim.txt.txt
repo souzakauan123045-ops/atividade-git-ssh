@@ -1,1 +1,2 @@
 my names is kauan =]
+Aprendi como manusear arquivo da staging area para o git hub muito dahora.
